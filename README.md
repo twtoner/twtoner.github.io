@@ -6,12 +6,13 @@
 <div style="display: flex;">
 <div style="margin-right: 20px;">
 
-![headshot](/figures/headshots/ME-HdsSeptD1-22(51).jpg)
+![headshot](figures/headshots/ME-HdsSeptD1-22(51).jpg)
 
 </div>
 <div>
 
 Enthusiastic robotics and controls researcher nearing the completion of a PhD at the University of Michigan. Specializing in learning-based robot control in data-limited environments, my academic and professional journey is driven by a passion for practical applications of robotics in solving real problems, including automated robot programming, reactive motion planning, and deformable object manipulation. 
+
 
 As I approach my graduation, I'm actively seeking opportunities to apply my skills in robotics and controls, aiming to make meaningful contributions to the field. I'm eager to connect with professionals and explore positions available in Fall 2024. Please see my CV for more details about my technical skills and leadership experience.
 
