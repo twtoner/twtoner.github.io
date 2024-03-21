@@ -6,7 +6,7 @@
 <div style="display: flex;">
 <div style="margin-right: 20px;">
 
-![headshot](figures/headshots/ME-HdsSeptD1-22(51).jpg)
+![headshot](figures/icra2024/Picture1.png)
 
 </div>
 <div>
@@ -20,8 +20,6 @@ As I approach my graduation, I'm actively seeking opportunities to apply my skil
 </div>
 
 ## Professional Summary
-
-<-- [Here, write a brief professional summary, highlighting your skills, experiences, and what you're looking for in your next role or project.] -->
 
 ---
 
