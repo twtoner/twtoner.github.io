@@ -21,7 +21,7 @@ As I approach my graduation, I'm actively seeking opportunities to apply my skil
 
 ## Professional Summary
 
-[Here, write a brief professional summary, highlighting your skills, experiences, and what you're looking for in your next role or project.]
+<-- [Here, write a brief professional summary, highlighting your skills, experiences, and what you're looking for in your next role or project.] -->
 
 ---
 
