@@ -1,5 +1,6 @@
-title: Shaw Talebi
+title: Tyler Toner
 # logo: /assets/img/headshot_circle.png
-#description: text below image
+logo: /figures/headshots/formal_headshot.jpg
+description: Roboticist
 # show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
