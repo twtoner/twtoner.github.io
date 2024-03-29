@@ -61,8 +61,9 @@
 
       <div id="filters" class="button-group">
         <!-- <button class="button" data-filter="*">Show All</button> -->
-        <button class="button" data-filter=".publication">Research</button>
+        <button class="button" data-filter=".publication">Publications</button>
         <button class="button" data-filter=".education">Education</button>
+        <button class="button" data-filter=".education">Experience</button>
         <button class="button" data-filter=".project">Projects</button>
         <!-- <button class="button is-checked" data-filter=".highlight">Highlights</button> -->
         <!-- <button class="button" data-filter=".talk">Talks</button> -->
@@ -193,23 +194,42 @@
         <!-- Education -->
 
         <div class="list-item education" data-category="education">
-          <div class="education-thumbnail">
+          <a href="" class="thumbnail">
             <img src="figures/michigan/michigan_eng.png" alt="Michigan Engineering Logo" />
-          </div>
+          </a>
           <div class="education-description">
-            <h3>Ph.D., Mechanical Engineering</h3>
+            <h3><a href="">Ph.D., Mechanical Engineering
+            </a></h3>
             <p>
-              <strong>University of Michigan</strong><br>
-              September 2019 – August 2024<br>
-              GPA: <i>3.98</i><br>
-              Thesis: <i>Learning-based control in data-limited environments</i><br>
+              <strong>University of Michigan</pstrong><br>
+              <strong>GPA</strong>: 3.98<br>
+              <strong>Thesis</strong>: <i>Learning-based control in data-limited environments</i><br>
               National Science Foundation Graduate Research Fellowship (NSF GRFP) (16% acceptance rate)
+                <br> <!-- TODO: extra spaces until I figure out the margin bug. -->
             </p>
           </div>
         </div>
+
+        <div class="list-item education" data-category="education">
+          <a href="" class="thumbnail">
+            <img src="figures/auburn/auburn_eng.png" alt="Auburn Engineering Logo" />
+          </a>
+          <div class="education-description">
+            <h3><a href="">Bachelor of Mechanical Engineering
+            </a></h3>
+            <p>
+              <strong>Auburn University</pstrong><br>
+              <strong>GPA</strong>: 4.00<br>
+              <strong>Minor</strong>: Computer Science
+                <br> <!-- TODO: extra spaces until I figure out the margin bug. -->
+            </p>
+          </div>
+        </div>
+
+
         
         <div class="list-item education" data-category="education">
-          <div class="education-thumbnail">
+          <div class="thumbnail">
             <img src="figures/auburn/auburn_eng.png" alt="Auburn Engineering Logo" />
           </div>
           <div class="education-description">
