@@ -284,14 +284,20 @@ z
 }
 
 .photo {
-  flex: 1; /* Allows the item to grow to fill available space */
-  max-width: 30%; /* Maximum width of each photo block */
-  margin: 1%; /* Reduced margin to allow more images side by side */
+  flex: 1;
+  max-width: 20%;
+  margin: 1%;
+  text-align: center; /* Center-aligns the caption text */
 }
 
 .photo img {
   width: 100%; /* Makes the image fill its container */
   height: auto; /* Maintains the aspect ratio */
+}
+
+.caption {
+  display: block; /* Treats the span like a block element, allowing it to take up the full width */
+  margin-top: 0.5em; /* Adds a little space between the image and the caption */
 }
 
 
