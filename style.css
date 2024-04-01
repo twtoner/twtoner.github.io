@@ -20,6 +20,7 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -47,8 +48,14 @@ table {
 /**************************************************/
 
 #body{
-  font-family: 'Asap', roboto, sans-serif;
-  font-size: 1em;
+  /* font-family: 'Asap', roboto, sans-serif; */
+  font-family: 'Montserrat', roboto, sans-serif;
+  /* font-family: 'Helvetica', Arial, sans-serif; */
+  /* font-family: Georgia, 'Times New Roman', Times, serif; */
+  /* font-family: Consolas, 'Courier New', Courier, monospace; */
+  /* font-family: Verdana, Geneva, sans-serif; */
+  /* font-size: 1em; */
+  font-size: clamp(14px, 2vw, 18px);
   line-height: 1.5em;
   color: #150c21;
 }
@@ -62,7 +69,9 @@ table {
 
 a {
   text-decoration: none;
-  color: rgb(20, 110, 190);
+  /* color: rgb(20, 110, 190); */
+  color: rgb(56, 97, 246);
+  /* font-weight: 560 */
 }
 
 a:hover {
@@ -81,7 +90,8 @@ b {
 h1 {
   font-size: 2.4em;
   line-height: 3em;
-  font-weight: 500;
+  /* font-weight: 500; */
+  font-weight: 1000;
 }
 
 /**************************************************/
@@ -143,7 +153,7 @@ h2 {
   line-height: 2.4em;
   margin-top: 0.5em;
   margin-right: 1em;
-  float: left;
+  /* float: left; */
   padding: 0;
 }
 

@@ -101,9 +101,9 @@
         <button class="button" data-filter=".hobby">Personal interests</button>
       </div>
 
+
+
       <div class="grid">
-
-
         <!-- Toggle highlights button. -->
         <!-- <div class="list-item publications toggle-button" data-category="publications">
           <a id="toggle_highlights_button" href="javascript:toggle_highlights()">Show more</a>
@@ -535,7 +535,7 @@
         // Retrieve cached button click.
         var defaultFilterValue = localStorage.getItem('filterValue');
         if (defaultFilterValue == null) {
-          defaultFilterValue = ".highlight"
+          defaultFilterValue = ".publication"
         }
         $grid.isotope({ filter: defaultFilterValue });
         var buttons = document.getElementsByClassName("button");
