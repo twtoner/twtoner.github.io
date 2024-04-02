@@ -325,13 +325,17 @@ h3 a:hover {
 }
 
 .publication {
+  font-size: 1em;
   margin-bottom: 0.5em;
 }
 
 .publication p {
-  font-size: 1em;
+  /* font-size: 1em; */
+  /* margin-top: 0.2em; */
+  font-size: 0.95em;
   line-height: 1.5em;
-  color: #a0a8b0;
+  /* color: #a0a8b0; */
+  color: #626262;
 }
 
 .project-description {
