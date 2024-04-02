@@ -76,7 +76,8 @@ a {
 
 a:hover {
   text-decoration: none;
-  border-bottom: 1px solid rgb(20, 110, 190);
+  /* border-bottom: 1px solid rgb(20, 110, 190); */
+  border-bottom: 1px solid rgb(56, 97, 246);
 }
 
 i {
@@ -321,7 +322,8 @@ h3 a {
 }
 
 h3 a:hover {
-  color: rgb(20, 110, 190);
+  /* color: rgb(20, 110, 190); */
+  color: rgb(56, 97, 246);
 }
 
 .publication {
